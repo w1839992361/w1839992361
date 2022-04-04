@@ -2,7 +2,7 @@
   Hey there 👋<br>
   I'm
   <a href="#">
-    <img src="https://akashhamirwasia.com/akash-animated.svg" width="177" height="18">
+    <img src="http://123.56.150.204/api/hat.png" width="150" height="150">
   </a>
 </h3>
 
