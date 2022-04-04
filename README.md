@@ -1,9 +1,6 @@
 <h3>
-  Hey there 👋<br>
-  I'm
-  <a href="#">
-    <img src="http://123.56.150.204/api/hat.png" width="150" height="150">
-  </a>
+  嗨！ 👋<br>
+  我是 卫晓强
 </h3>
 
 <!--
@@ -18,31 +15,20 @@
 -->
 
 #### About 🌏
-- I build innovative and useful products on the web with great user experience.
-- I'm a final year Computer Science student at **[PES University](https://pes.edu)**.
+- 
+- 我是来自天津电子信息职业技术学院的大二学生 **[Tianjing Electric Information College](https://www.tjdz.edu.cn/cs/tjdz/index.html)**.
 
 #### Work 🔭
-- Currently interning as SDE at **[Razorpay](https://razorpay.com)**.
-- Interned as software engineer at **[Akamai Technologies](https://akamai.com)** in summer 2021.
-- Interned as frontend engineer at **[smallcase](https://smallcase.com)** in summer 2020.
-- Building **[Blaze](https://blaze.now.sh)** and **[Pigmnts](https://pigmnts.web.app)** in my free time.
+- 目前在大二下学期
 
-#### Current Interests 🌱
-- **[React](https://reactjs.org)**
-- **[Typescript](https://www.typescriptlang.org/)**
-- **[Tailwind CSS](https://tailwindcss.com)**
-- Graph Theory
-- Compiler Design
-- Generic Programming
+#### I have mastered these skills 😄
+- **HTML CSS JavaScript**
+- **Node.js PHP**
+- **Vue Bootstrap ElementUi jQuery**
 
-#### Ask me about 💬
+#### Communicate together 💬
 - Frontend development
-- UI design
-- Open source
 
 #### Get in touch 📫
-- Mail: **hi@akashhamirwasia.com**
-- Personal site: **[akashhamirwasia.com](https://akashhamirwasia.com)**
-
-**Fun fact ⚡**
-- I occasionally work on 3D graphics with **[Blender](https://blender.org)**
+- Mail: **1839992361@qq.com**
+- Personal site: **[aqiangge.xyz](http://www.aqiangge.xyz:1111)**
