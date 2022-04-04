@@ -21,14 +21,14 @@
 #### Work 🔭
 - 目前在大二下学期
 
-#### I have mastered these skills 😄
+#### 我已经掌握了这些节能 😄
 - **HTML CSS JavaScript**
 - **Node.js PHP**
 - **Vue Bootstrap ElementUi jQuery**
 
-#### Communicate together 💬
+#### 与我交流 💬
 - Frontend development
 
-#### Get in touch 📫
+#### 保持联系 📫
 - Mail: **1839992361@qq.com**
 - Personal site: **[aqiangge.xyz](http://www.aqiangge.xyz:1111)**
